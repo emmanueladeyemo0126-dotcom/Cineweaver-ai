@@ -1,0 +1,6 @@
+{
+  "name": "CineWeaver AI - Filmmaker Studio",
+  "description": "End-to-end studio for AI filmmakers: idea-to-reality discovery questionnaire, character consistency sheets, dynamic storyboards, shot-by-shot prompt compiler for Runway, Midjourney & Kling, and production bible generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
